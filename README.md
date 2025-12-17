@@ -234,34 +234,6 @@ Watch the full setup walkthrough: [YouTube Video Link]
 
 ---
 
-## 🤝 Contributing
-
-Found an issue? Have suggestions? Open a GitHub issue or submit a pull request!
-
----
-
-## 📜 License
-
-This guide is open-source under the MIT License.
-
----
-
-## 🔗 Additional Resources
-
-- [Ollama Documentation](https://github.com/ollama/ollama)
-- [LM Studio Discord](https://discord.gg/lmstudio)
-- [Hugging Face Models](https://huggingface.co/models)
-- [DeepSeek Models](https://huggingface.co/deepseek-ai)
-
----
-
-**Built with ❤️ by TechRex**  
-*Evolve or Get Extinct* 🦖
-
-⭐ **Star this repo if it helped you run AI locally!**
-
----
-
 ### 🎯 The REX Method
 This tutorial follows the **REX Method**:
 - **R**esources: Discovering Ollama & LM Studio
