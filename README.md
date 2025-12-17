@@ -2,6 +2,8 @@
 
 Stop relying on the internet to use AI. This guide shows you how to run powerful language models locally on your computer with **zero internet dependency** and **complete privacy**.
 
+> **Created by TechRex** – Making AI accessible, one tutorial at a time.
+
 ---
 
 ## 📋 Table of Contents
@@ -12,6 +14,7 @@ Stop relying on the internet to use AI. This guide shows you how to run powerful
 - [Recommended Models](#recommended-models)
 - [Troubleshooting](#troubleshooting)
 - [FAQ](#faq)
+- [Connect with TechRex](#connect-with-techrex)
 
 ---
 
@@ -215,6 +218,22 @@ Watch the full setup walkthrough: [YouTube Video Link]
 
 ---
 
+## 🌐 Connect with TechRex
+
+**Follow me for more AI tutorials, automation workflows, and tech insights!**
+
+🎬 **YouTube:** [@The_TechRex](https://www.youtube.com/@The_TechRex)  
+🐦 **X (Twitter):** [@The_TechRex](https://twitter.com/The_TechRex)  
+📸 **Instagram:** [@The_TechRex](https://instagram.com/The_TechRex)  
+📝 **Medium:** [@saiteja.techrex](https://medium.com/@saiteja.techrex)  
+📰 **Blog:** [TechRex on Blogspot](https://saiteja-techrex.blogspot.com)  
+💼 **LinkedIn:** [Venkata Sai Teja Mothukuri](https://www.linkedin.com/in/venkatasaitejam)  
+🐙 **GitHub:** [@thetechrex](https://github.com/thetechrex) | [@saiteja007-mv](https://github.com/saiteja007-mv)  
+🌐 **Portfolio:** [venkatasaitejaportfolio.netlify.app](https://venkatasaitejaportfolio.netlify.app)  
+✉️ **Email:** saiteja.techrex@gmail.com
+
+---
+
 ## 🤝 Contributing
 
 Found an issue? Have suggestions? Open a GitHub issue or submit a pull request!
@@ -227,7 +246,7 @@ This guide is open-source under the MIT License.
 
 ---
 
-## 🔗 Resources
+## 🔗 Additional Resources
 
 - [Ollama Documentation](https://github.com/ollama/ollama)
 - [LM Studio Discord](https://discord.gg/lmstudio)
@@ -236,6 +255,17 @@ This guide is open-source under the MIT License.
 
 ---
 
-**Built with ❤️ for the AI community**
+**Built with ❤️ by TechRex**  
+*Evolve or Get Extinct* 🦖
 
-⭐ Star this repo if it helped you run AI locally!
+⭐ **Star this repo if it helped you run AI locally!**
+
+---
+
+### 🎯 The REX Method
+This tutorial follows the **REX Method**:
+- **R**esources: Discovering Ollama & LM Studio
+- **E**xperiments: Testing local AI models
+- **eX**ecution: Building your offline AI setup
+
+Learn more about the REX Method on the [TechRex YouTube channel](https://www.youtube.com/@The_TechRex)!
